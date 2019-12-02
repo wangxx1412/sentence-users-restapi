@@ -1,7 +1,16 @@
 # A simple Python(Flask), MongoDB, Docker RestAPI
 
-### Register Users with bcrypt password
+## Installation
 
-### Store sentence to DB
+```
+docker-compose build
+docker-compose up
+```
 
-### Retrieve sentence
+## Usage
+
+Register Users with bcrypt password to MongoDB
+
+Store sentence to MongoDB
+
+Retrieve sentence
